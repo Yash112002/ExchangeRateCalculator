@@ -2,6 +2,20 @@
 
 This project is based on HTML, JavaScript, Api and Bootstrap. The objective of this project is to create a user friendly interface for Exchange Rate Calculator. In which a user can get latest exchange rate of different popular currencies and their evaluations.
 
+
+
+
+Algorithm Used : 
+
+
+    1. HTML
+    2. JavaScript
+    4. Bootstrap
+    3. Exchange Rate Api https://exchangeratesapi.io/ 
+
+
+
+
 https://yash112002.github.io/ExchangeRateCalculator/
 
 
